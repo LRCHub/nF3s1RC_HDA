@@ -2,7 +2,7 @@
   "version": 1,
   "base_track": "夏めきペイン",
   "base_artist": "蓮ノ空女学院スクールアイドルクラブ",
-  "createdAt": "2026-03-11T16:13:25.213044Z",
+  "createdAt": "2026-03-20T07:14:52.484771Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -19,6 +19,15 @@
       "artist": "蓮ノ空女学院スクールアイドルクラブ",
       "has_synced": false,
       "path": "select/pl_01_夏めきペイン_蓮ノ空女学院スクールアイドルクラブ.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "夏めきペイン",
+      "artist": "蓮ノ空女学院スクールアイドルクラブ",
+      "has_synced": true,
+      "path": "select/localdb_01_夏めきペイン_蓮ノ空女学院スクールアイドルクラブ.lrc",
+      "repo_name": "nF3s1RC_HDA"
     }
   ]
 }
